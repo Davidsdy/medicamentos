@@ -1,5 +1,0 @@
-*********************************************************************
-** Projeto feito por David Leite				    *
-** Editar arquivo 'funcoes.php' para conexão com o banco de dados.  *
-** Feito em com mysqli, projeto bem simples.			    *
-*********************************************************************
