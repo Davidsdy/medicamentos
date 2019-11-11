@@ -1,0 +1,22 @@
+*{
+ margin: 0px; padding: 0px; font-size: large;
+}
+body {
+  background-image: url(https://image.freepik.com/vetores-gratis/limpe-medico-saude-fundo-coracao-batida_1017-8764.jpg);
+  /*background-repeat: no-repeat;*/
+  /*background-size: 1366px 768px;*/
+  background-color: #f5f5f5;
+  
+}
+.navbar-dark{
+	border-radius: 4px;
+}
+.table-bordered{
+	border-radius: 4px;
+}
+.thead-light{
+	border-radius: 4px;
+}
+.table-striped{
+	border-radius: 4px;
+}
